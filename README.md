@@ -10,3 +10,7 @@ signing: https://tools.superdatascience.com/blockchain/public-private-keys/signa
 blockchain resources: https://www.superdatascience.com/pages/blockchain
 
 
+Consensus Protocol
+
+Proof of Work and Proof of Stake
+
