@@ -24,3 +24,5 @@ https://tools.superdatascience.com/blockchain/public-private-keys/blockchain
 
 refer to module 1 - create a blockchain
 
+use flask and simple hash lib to create a block chain
+
