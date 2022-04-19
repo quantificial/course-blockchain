@@ -200,3 +200,15 @@ install metamask and use rinkeby test network
 
 use this to get eth for test network https://faucets.chain.link/rinkeby
 
+### smart contract under Etherium - inbox
+
+use solidity ^0.4.17;
+
+need package mocha for unit testing
+
+need solc for solidity compilation
+
+web3 package for communication to the ethereum node or infura API server
+
+
+

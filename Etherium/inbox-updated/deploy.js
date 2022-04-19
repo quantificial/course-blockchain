@@ -3,6 +3,8 @@ const Web3 = require('web3');
  
 const { abi, evm } = require('./compile');
  
+// 1st is the key phrase, 
+// 2nd is the endpoint of infura network
 provider = new HDWalletProvider(
   'YOUR_MNEMONIC',
   'YOUR_INFURA_URL'
