@@ -211,4 +211,18 @@ need solc for solidity compilation
 web3 package for communication to the ethereum node or infura API server
 
 
+### smart contract lottery
+
+need to store the contract creator address
+
+need to store the contract address of users to dynamic address array
+
+need to restrict the function call of pick winner to be allowed only for the contract creator
+
+so need to apply the modifier to restrict the function call
+
+allow users to send ether to the smart contract using modifer payable
+
+need to write unit test to test the functionality
+
 
