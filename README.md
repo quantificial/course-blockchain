@@ -191,6 +191,11 @@ contract coin_ico {
 }
 ```
 
+### install ganache tools for Smart Contracts development
+
+https://trufflesuite.com/
+
+
 
 ### use test network for the development
 
